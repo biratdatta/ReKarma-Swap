@@ -1,2 +1,2 @@
-# ReKarma-Swap
+# ReKarmaSwap
 WarpSpeed hackathon 
